@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="a_logo">a logo</string>
+    <string name="exempeltext">Exempeltext står här</string>
+    <string name="knapp_ett">Knapp ett</string>
+    <string name="knapp_2">Knapp två</string>
 </resources>
